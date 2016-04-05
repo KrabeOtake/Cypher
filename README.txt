@@ -5,5 +5,9 @@ no test!
 =======
 test?
 >>>>>>> refs/remotes/origin/testBranch
+<<<<<<< HEAD
 ololol;
 alala
+=======
+ololol;
+>>>>>>> refs/remotes/origin/master
